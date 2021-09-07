@@ -3,7 +3,7 @@
 
 For each section below, there are tips for completing the labs. Most of these tips are navigational in nature, to describe navigation differencese between the previous versious of AWS Console and today.
 
-## [Inverntory and Patch Management](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management.html) 
+## [Inventory and Patch Management](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management.html) 
 
 
 
