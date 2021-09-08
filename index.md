@@ -11,7 +11,7 @@ For each section below, there are tips for completing the labs. Most of these ti
   
 #### [Inventory](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/inventory.html)
 
-** 3.1 Setting Up Systems Manager
+** 3.1 Setting Up Systems Manager **
    > 3.2 Choose **Fleet Manager** (not Managed Instances) from the navigation bar.
    >
    > 4.2 Select the first instance and then choose **Actions**, **Security**, and **Modify IAM Role**.
