@@ -3,7 +3,7 @@
 
 Under each section below, there are corrections to the workshop. 
 
-Where the line correction begins with a number, (e.g. 1.3), this text replaces the line. Most corrections are navigational in nature, that is, changes in the names of menu items. 
+Where the line correction begins with a number, (e.g. 1.3), this text replaces the line. Most corrections are navigational in nature, that is, changes in the names of menu items. The number 1.0, 2.0, 3.0 is the same as 1., 2., 3. etc
 
 Where the line begins with the word TIP, it is helpful advice for completing the lab timely. 
 
