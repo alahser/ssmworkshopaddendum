@@ -40,9 +40,28 @@ Under each section below, there are corrections to the workshop. Most of these t
    > 1.0 Navigate to **Fleet Manager** under **Node Management** in the navigation bar. An Association Status has been established for the inventoried instances under management.
 
    >  3.0 Navigate to **Compliance** under **Node Management** in the navigation bar. Here you can view the overall compliance status of your managed instances in the Compliance resources summary and the individual compliance status of systems in the Details overview for resources section below.
+  
 
 #### [Patch Manager](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/patch.html) 
-   > as is
+
+**[4.1 Create a Patch Baseline](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/patch.html#41-create-a-patch-baseline)**
+   > 1.0 Under **Node Management** in the AWS Systems Manager navigation bar, choose Patch Manager.
+
+   > 2.0 Click the **Patch Baselines** tab.
+
+
+**[4.4 Scan Your Instances with AWS-RunPatchBaseline via Run Command](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/patch.html#44-scan-your-instances-with-aws-runpatchbaseline-via-run-command)
+   > 1.0 Under **Node Management** in the AWS Systems Manager navigation bar, choose Run Command. In the Run Command dashboard, you will see any currently executing commands. You can also select the Command history tab to view previously executed commands including the execution of AWS-RefreshAssociation, which was performed when you set up inventory.
+
+   >  6.0 (No correction - just note that SMS target need not be specified for training)
+
+   > 10, 11, and 12 - (No correction - the order of steps may be different). 
+
+**[4.5 Review Initial Patch Compliance](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/patch.html#45-review-initial-patch-compliance)**
+   > 1.0  Under **Node Managment**  in the the AWS Systems Manager navigation bar, choose Compliance.
+  
+  
+
 #### [Maintenance Window](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/maintwindow.html) 
    > as is
 
