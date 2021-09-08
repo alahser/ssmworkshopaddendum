@@ -38,7 +38,7 @@ Under each section below, there are corrections to the workshop. Most of these t
    
    * There is an option to specify **Output options**.
    > 1.0 Navigate to **Fleet Manager** under **Node Management** in the navigation bar. An Association Status has been established for the inventoried instances under management.
-
+   >   
    >  3.0 Navigate to **Compliance** under **Node Management** in the navigation bar. Here you can view the overall compliance status of your managed instances in the Compliance resources summary and the individual compliance status of systems in the Details overview for resources section below.
   
 
@@ -49,8 +49,8 @@ Under each section below, there are corrections to the workshop. Most of these t
 
    > 2.0 Click the **Patch Baselines** tab.
 
+**[4.4 Scan Your Instances with AWS-RunPatchBaseline via Run Command](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/patch.html#44-scan-your-instances-with-aws-runpatchbaseline-via-run-command)**
 
-**[4.4 Scan Your Instances with AWS-RunPatchBaseline via Run Command](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/patch.html#44-scan-your-instances-with-aws-runpatchbaseline-via-run-command)
    > 1.0 Under **Node Management** in the AWS Systems Manager navigation bar, choose Run Command. In the Run Command dashboard, you will see any currently executing commands. You can also select the Command history tab to view previously executed commands including the execution of AWS-RefreshAssociation, which was performed when you set up inventory.
 
    >  6.0 (No correction - just note that SMS target need not be specified for training)
@@ -64,17 +64,26 @@ Under each section below, there are corrections to the workshop. Most of these t
 
 **[4.6 Patch Your Instances with AWS-RunPatchBaseline via Run Command](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/patch.html#46-patch-your-instances-with-aws-runpatchbaseline-via-run-command)**
    > 1.0 Under **Shared Resources** in the AWS Systems Manager navigation bar, choose **Run Command**.
-
+  
+   > (Tip -- No need to wait for patching to complete to see partial results in Compliance.)
+   
 **[4.7 Review Patch Compliance After Patching](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/patch.html#47-review-patch-compliance-after-patching)**
+
    > 1.0 Under **Node Management** in the the AWS Systems Manager navigation bar, choose Compliance.
 
 
-
-  
-  
-
 #### [Maintenance Window](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/maintwindow.html) 
-   > as is
+
+**[5.2 Create a Patch Maintenance Window](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/maintwindow.html#52-create-a-patch-maintenance-window**
+
+   > 2.0 In the navigation pane, under "Change Management" choose **Maintenance Windows** and then choose **Create maintenance window**.
+   
+   > (Tip -- choose the optional parameters to start every 30 minutes, you can check results during a later lab if short on time)
+
+
+
+
+
 
 
 ## [Configuration Management](https://mng.workshop.aws/ssm/use-case-labs/configmanagement.html)
