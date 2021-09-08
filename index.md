@@ -74,7 +74,7 @@ This addendum is current as of September 8, 2021.
 **[4.6 Patch Your Instances with AWS-RunPatchBaseline via Run Command](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/patch.html#46-patch-your-instances-with-aws-runpatchbaseline-via-run-command)**
    > 1.0 Under **Shared Resources** in the AWS Systems Manager navigation bar, choose **Run Command**.
   
-   > (Tip -- No need to wait for patching to complete to see partial results in Compliance.)
+   > TIP -- No need to wait for patching to complete to see partial results in Compliance.
    
 **[4.7 Review Patch Compliance After Patching](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/patch.html#47-review-patch-compliance-after-patching)**
 
@@ -87,11 +87,7 @@ This addendum is current as of September 8, 2021.
 
    > 2.0 In the navigation pane, under "Change Management" choose **Maintenance Windows** and then choose **Create maintenance window**.
    
-   > (Tip -- choose the optional parameters to start every 30 minutes, you can check results during a later lab if short on time)
-
-
-
-
+   > TIP -- choose the optional parameters to start every 30 minutes, you can check results during a later lab if short on time.
 
 
 
