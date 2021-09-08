@@ -1,7 +1,7 @@
 ### Addendum to AWS Systems Manager [Workshop](https://mng.workshop.aws/ssm.html)
 
 
-For each section below, there are tips for completing the labs. Most of these tips are navigational in nature, to describe navigation differencese between the previous versious of AWS Console and today. This addendum is current as of September 8, 2021.
+Under each section below, there are corrections to the workshop. Most of these tips are navigational in nature, that is, changes in the names of menu items. This addendum is current as of September 8, 2021.
 
 ## [Inventory and Patch Management](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management.html) 
 #### [Event Engine Access](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/event_engine.html)
