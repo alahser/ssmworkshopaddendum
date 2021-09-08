@@ -80,7 +80,6 @@ This addendum is current as of September 8, 2021.
 
    > 1.0 Under **Node Management** in the the AWS Systems Manager navigation bar, choose Compliance.
 
-
 #### [Maintenance Window](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/maintwindow.html) 
 
 **[5.2 Create a Patch Maintenance Window](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/maintwindow.html#52-create-a-patch-maintenance-window**
@@ -93,7 +92,21 @@ This addendum is current as of September 8, 2021.
 
 ## [Configuration Management](https://mng.workshop.aws/ssm/use-case-labs/configmanagement.html)
 
+> [Run compliance enforcement and view compliant and non-compliant instances using AWS Systems Manager and PowerShell DSC](https://aws.amazon.com/blogs/mt/run-compliance-enforcement-and-view-compliant-and-non-compliant-instances-using-aws-systems-manager-and-powershell-dsc/)
+
+> [Running Salt States Using Amazon EC2 Systems Manager](https://aws.amazon.com/blogs/mt/running-salt-states-using-amazon-ec2-systems-manager/)
+
 ## [Complance Management](https://mng.workshop.aws/ssm/use-case-labs/configurationcompliance.html)
+
+
+####[7.2 Configuring AWS Systems Manager Inventory](https://mng.workshop.aws/ssm/use-case-labs/configurationcompliance.html#72-configuring-aws-systems-manager-inventory)
+   > 2.0 Then, click on **Fleet Manager** in the navigation.
+   
+   >3.0 Once there, click on the **Account Management** drop down, and then the **Setup Inventory** link.
+
+   > TIP - perform steps 7, 8 and 9 after completing section 7.4
+
+
 
 
 ## [Capability Hands-On Labs](https://mng.workshop.aws/ssm/capability_hands-on_labs.html)
