@@ -60,8 +60,16 @@ Under each section below, there are corrections to the workshop. Most of these t
 **[4.5 Review Initial Patch Compliance](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/patch.html#45-review-initial-patch-compliance)**
    > 1.0  Under **Node Managment** in the the AWS Systems Manager navigation bar, choose Compliance.
 
-
    > 3.0 (Optionally) Select the radio button of a Non-Compliant resources for the Patch compliance type to show the Compliance rule resources list. Next, filter the list of complaince rules using the drop down list to select "non-compliant". Now, scroll down to see a list of updates that the specific instance is missing.
+
+**[4.6 Patch Your Instances with AWS-RunPatchBaseline via Run Command](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/patch.html#46-patch-your-instances-with-aws-runpatchbaseline-via-run-command)**
+   > 1.0 Under **Shared Resources** in the AWS Systems Manager navigation bar, choose **Run Command**.
+
+**[4.7 Review Patch Compliance After Patching](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/patch.html#47-review-patch-compliance-after-patching)**
+   > 1.0 Under **Node Management** in the the AWS Systems Manager navigation bar, choose Compliance.
+
+
+
   
   
 
