@@ -12,13 +12,13 @@ For each section below, there are tips for completing the labs. Most of these ti
 * [Inventory](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/inventory.html)
 
 ### 3.1 Setting Up Systems Manager
-   >3.2 Choose **Fleet Manager** (not Managed Instances) from the navigation bar.
+   > 3.2 Choose **Fleet Manager** (not Managed Instances) from the navigation bar.
    >
-   >4.2 Select the first instance and then choose **Actions**, **Security**, and **Modify IAM Role**.
+   > 4.2 Select the first instance and then choose **Actions**, **Security**, and **Modify IAM Role**.
    >
-   >4.3 Under **Modify IAM Role**, select **ManagedInstancesRole** from the drop down list and choose **Apply**.
+   > 4.3 Under **Modify IAM Role**, select **ManagedInstancesRole** from the drop down list and choose **Apply**.
    >
-   >5. Return to the Systems Manager console and choose **Fleet Manager** (not Managed Instances) from the navigation bar. Periodically *refresh* Managed Instances (using the circle arrrow button) until your instances begin to appear in the list. Over the next couple of minutes your instances will populate into the list as managed instances. If the instance does not register after several minutes, you can reboot the EC2 instance by selecting the instances and using the menu **Actions**, **Manage Instance State**. Then select the **Reboot** radio control and press the **Change State** button.
+   > 5.0 Return to the Systems Manager console and choose **Fleet Manager** (not Managed Instances) from the navigation bar. Periodically *refresh* Managed Instances (using the circle arrrow button) until your instances begin to appear in the list. Over the next couple of minutes your instances will populate into the list as managed instances. If the instance does not register after several minutes, you can reboot the EC2 instance by selecting the instances and using the menu **Actions**, **Manage Instance State**. Then select the **Reboot** radio control and press the **Change State** button.
 
 * [State Manager](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/statemgr.html) - as is
 * [Patch Manager](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/patch.html) - as is
