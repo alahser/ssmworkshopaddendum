@@ -20,6 +20,13 @@ For each section below, there are tips for completing the labs. Most of these ti
    >
    > 5.0 Return to the Systems Manager console and choose **Fleet Manager** (not Managed Instances) from the navigation bar. Periodically *refresh* Managed Instances (using the circle arrrow button) until your instances begin to appear in the list. Over the next couple of minutes your instances will populate into the list as managed instances. If the instance does not register after several minutes, you can reboot the EC2 instance by selecting the instances and using the menu **Actions**, **Manage Instance State**. Then select the **Reboot** radio control and press the **Change State** button.
 
+** 3.3 Using System Manager Inventory to Track Your Instances **
+   > 1.0 Under **Node Management** in the AWS Systems Manager navigation bar, choose Inventory.
+   > 
+   > 3.0 In the Setup Inventory screen, define targets for inventory:  Select **Selecting all managed instances in this account**
+   > 
+   > 6.0 It is not necessary to select an S3 bucket for the workshop
+
 #### [State Manager](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/statemgr.html) - as is
 #### [Patch Manager](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/patch.html) - as is
 #### [Maintenance Window](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/maintwindow.html) - as is
