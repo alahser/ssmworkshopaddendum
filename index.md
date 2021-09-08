@@ -1,7 +1,13 @@
 ### Addendum to AWS Systems Manager [Workshop](https://mng.workshop.aws/ssm.html)
 
 
-Under each section below, there are corrections to the workshop. Most of these tips are navigational in nature, that is, changes in the names of menu items. This addendum is current as of September 8, 2021.
+Under each section below, there are corrections to the workshop. 
+
+Where the line correction begins with a number, (e.g. 1.3), this text replaces the line. Most corrections are navigational in nature, that is, changes in the names of menu items. 
+
+Where the line begins with the word TIP, it is helpful advice for completing the lab timely. 
+
+This addendum is current as of September 8, 2021.
 
 ## [Inventory and Patch Management](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management.html) 
 
@@ -12,11 +18,11 @@ Under each section below, there are corrections to the workshop. Most of these t
    >as is
 
 #### [Setup](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/setup.html)   
-   >1.3 The Key Pair may save automatically to your downloads
+   >TIP for [step 1.3](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/setup.html#13-create-an-ec2-key-pair) -- the Key Pair may save automatically to your downloads
   
 #### [Inventory](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/inventory.html)
 
-**3.1 Setting Up Systems Manager**
+**[3.1 Setting Up Systems Manager](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/inventory.html#31-setting-up-systems-manager)**
 
    > 3.2 Choose **Fleet Manager** (not Managed Instances) from the navigation bar.
    
@@ -26,7 +32,7 @@ Under each section below, there are corrections to the workshop. Most of these t
    
    > 5.0 Return to the Systems Manager console and choose **Fleet Manager** (not Managed Instances) from the navigation bar. Periodically *refresh* Managed Instances (using the circle arrrow button) until your instances begin to appear in the list. Over the next couple of minutes your instances will populate into the list as managed instances. If the instance does not register after several minutes, you can reboot the EC2 instance by selecting the instances and using the menu **Actions**, **Manage Instance State**. Then select the **Reboot** radio control and press the **Change State** button.
 
-**3.3 Using System Manager Inventory to Track Your Instances**
+**[3.3 Using System Manager Inventory to Track Your Instances](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/inventory.html#33-using-systems-manager-inventory-to-track-your-instances)**
 
    > 1.0 Under **Node Management** in the AWS Systems Manager navigation bar, choose Inventory.
    
@@ -36,7 +42,7 @@ Under each section below, there are corrections to the workshop. Most of these t
 
 #### [State Manager](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/statemgr.html) 
 
-**3.4 Review Association Status**
+**[3.4 Review Association Status](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/statemgr.html#34-review-association-status)**
    > 1.0 Under **Node Management** in the navigation bar, select State Manager. At this point, the Status may show that the inventory activity has not yet completed. 
    
    * There is an option to specify **Output options**.
