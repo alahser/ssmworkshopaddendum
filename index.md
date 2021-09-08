@@ -58,7 +58,10 @@ Under each section below, there are corrections to the workshop. Most of these t
    > 10, 11, and 12 - (No correction - the order of steps may be different). 
 
 **[4.5 Review Initial Patch Compliance](https://mng.workshop.aws/ssm/use-case-labs/inventory_patch_management/patch.html#45-review-initial-patch-compliance)**
-   > 1.0  Under **Node Managment**  in the the AWS Systems Manager navigation bar, choose Compliance.
+   > 1.0  Under **Node Managment** in the the AWS Systems Manager navigation bar, choose Compliance.
+
+
+   > 3.0 (Optionally) Select the radio button of a Non-Compliant resources for the Patch compliance type to show the Compliance rule resources list. Next, filter the list of complaince rules using the drop down list to select "non-compliant". Now, scroll down to see a list of updates that the specific instance is missing.
   
   
 
