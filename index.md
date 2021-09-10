@@ -98,8 +98,7 @@ This addendum is current as of September 8, 2021.
 
 ## [Complance Management](https://mng.workshop.aws/ssm/use-case-labs/configurationcompliance.html)
 
-
-####[7.2 Configuring AWS Systems Manager Inventory](https://mng.workshop.aws/ssm/use-case-labs/configurationcompliance.html#72-configuring-aws-systems-manager-inventory)
+#### [7.2 Configuring AWS Systems Manager Inventory](https://mng.workshop.aws/ssm/use-case-labs/configurationcompliance.html#72-configuring-aws-systems-manager-inventory)
 
    > 2.0 Then, click on **Fleet Manager** in the navigation.
    
