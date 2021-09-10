@@ -92,6 +92,8 @@ This addendum is current as of September 8, 2021.
 
 ## [Configuration Management](https://mng.workshop.aws/ssm/use-case-labs/configmanagement.html)
 
+> [Choosing Betweeen State Manager and Maintenace Windows](https://docs.aws.amazon.com/systems-manager/latest/userguide/state-manager-vs-maintenance-windows.html)
+
 > [Run compliance enforcement and view compliant and non-compliant instances using AWS Systems Manager and PowerShell DSC](https://aws.amazon.com/blogs/mt/run-compliance-enforcement-and-view-compliant-and-non-compliant-instances-using-aws-systems-manager-and-powershell-dsc/)
 
    > To understand the "art of the possible", read the **Walk Through** section
