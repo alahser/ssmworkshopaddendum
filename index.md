@@ -94,9 +94,9 @@ This addendum is current as of September 8, 2021.
 
 > [Run compliance enforcement and view compliant and non-compliant instances using AWS Systems Manager and PowerShell DSC](https://aws.amazon.com/blogs/mt/run-compliance-enforcement-and-view-compliant-and-non-compliant-instances-using-aws-systems-manager-and-powershell-dsc/)
 
-> [Running Salt States Using Amazon EC2 Systems Manager](https://aws.amazon.com/blogs/mt/running-salt-states-using-amazon-ec2-systems-manager/)
+   > To understand the "art of the possible", read the **Walk Through** section
 
-## [Complance Management](https://mng.workshop.aws/ssm/use-case-labs/configurationcompliance.html)
+## [Compliance Management](https://mng.workshop.aws/ssm/use-case-labs/configurationcompliance.html)
 
 #### [7.2 Configuring AWS Systems Manager Inventory](https://mng.workshop.aws/ssm/use-case-labs/configurationcompliance.html#72-configuring-aws-systems-manager-inventory)
 
@@ -106,8 +106,10 @@ This addendum is current as of September 8, 2021.
 
    > TIP - perform steps 7, 8 and 9 after completing section 7.4
 
+####[7.3 Configuring the AWS Systems Manager Automation Service Role](https://mng.workshop.aws/ssm/use-case-labs/configurationcompliance.html#73-configuring-the-aws-systems-manager-automation-service-role)
 
-
+   > For steps 2-6, alternatviely use this TIP - the **AmazonSSMAutomationRole may not be present. Instead use your understanding of cloudformation to create the necessary role following [this documentation](https://docs.aws.amazon.com/systems-manager/latest/userguide/automation-cf.html)
+   
 
 ## [Capability Hands-On Labs](https://mng.workshop.aws/ssm/capability_hands-on_labs.html)
 
